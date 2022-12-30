@@ -2,7 +2,6 @@
 
 :root {
 /* Primary */
-
 --soft-red: hsl(7, 99%, 70%);
 --yellow: hsl(51, 100%, 49%);
 /* (graphic design text) */
@@ -11,9 +10,7 @@
 --dark-blue: hsl(198, 62%, 26%);
 /* (footer) */
 --dark-moderate-cyan: hsl(168, 34%, 41%);
-
 /* Neutral */
-
 --very-dark-desaturated-blue: hsl(212, 27%, 19%);
 --very-dark-grayish-blue: hsl(213, 9%, 39%);
 --dark-grayish-blue: hsl(232, 10%, 55%);
@@ -25,9 +22,9 @@ body {
   font-size: 18px;
 }
 
-- Family: [Barlow](https://fonts.google.com/specimen/Barlow)
+/* - Family: [Barlow](https://fonts.google.com/specimen/Barlow)
 - Weights: 600
 - Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
-- Weights: 700, 900
+- Weights: 700, 900 */
 
 /* - [Font Awesome](https://fontawesome.com) */
