@@ -1,8 +1,7 @@
 /* Mobile: 375px - Desktop: 1440px */
 
-Colors
-
-Primary
+:root {
+  Primary
 
 - Soft red: hsl(7, 99%, 70%)
 - Yellow: hsl(51, 100%, 49%)
@@ -17,6 +16,7 @@ Neutral
 - Dark grayish blue: hsl(232, 10%, 55%)
 - Grayish blue: hsl(210, 4%, 67%)
 - White: hsl(0, 0%, 100%)
+}
 
 
 - Font size: 18px
