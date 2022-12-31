@@ -20,10 +20,6 @@ Your users should be able to:
 
 ![](./screenshot.jpg)
 
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
-
 ### Links
 
 - Solution URL: [GitHub Repo](https://your-solution-url.com)
@@ -35,7 +31,6 @@ Your users should be able to:
 
 - HTML5 markup
 - CSS  
-- Flexbox
 - Vanilla JavaScript
 - Mobile-first workflow
 
@@ -55,9 +50,6 @@ Your users should be able to:
 
 - [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
 ## Author
 

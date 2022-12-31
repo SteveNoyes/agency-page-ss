@@ -16,16 +16,13 @@
 --white: hsl(0, 0%, 100%);
 }
 
+/*
+  font-family: 'Barlow'; weight: 600
+  font-family: 'Fraunces' weights: 700, 900 
+*/
+
 body {
   font-size: 18px;
 }
-
-/*
-  font-family: 'Barlow';
-  weight: 600
-  font-family: 'Fraunces'
-  weights: 700, 900 
-*/
-
 
 /* Mobile: 375px - Desktop: 1440px */
