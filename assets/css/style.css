@@ -1,5 +1,3 @@
-/* Mobile: 375px - Desktop: 1440px */
-
 :root {
 /* Primary */
 --soft-red: hsl(7, 99%, 70%);
@@ -28,3 +26,6 @@ body {
   font-family: 'Fraunces'
   weights: 700, 900 
 */
+
+
+/* Mobile: 375px - Desktop: 1440px */
