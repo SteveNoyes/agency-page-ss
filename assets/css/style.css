@@ -26,3 +26,6 @@ body {
 }
 
 /* Mobile: 375px - Desktop: 1440px */
+@media (min-width: 375px) {
+
+}
